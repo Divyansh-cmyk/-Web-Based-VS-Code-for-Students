@@ -109,9 +109,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Customization Notes
-- **Repository URL**: Replace `https://github.com/your-username/student-coding-environments.git` with your actual repository URL before uploading.
-- **License**: If you don’t have a `LICENSE` file, either remove the License section or add an MIT License file (common for open-source projects).
-- **Visuals**: Optionally, include a screenshot of a `code-server` instance or a diagram (e.g., created with Draw.io) to show the setup flow.
-- **Testing**: Test the scripts and instructions locally to ensure accuracy before pushing to GitHub.
-- **Tone**: The README uses a professional yet approachable tone with emojis for visual appeal. If you prefer a different tone (e.g., more formal), let me know!
