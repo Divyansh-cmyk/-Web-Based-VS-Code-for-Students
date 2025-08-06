@@ -55,8 +55,9 @@ The `setup_student_envs_no_nginx.py` script automates environment setup with por
    - Saves access details (Student ID, URL, Password) to `E:\student_workspaces\student_links.csv`.
 
 3. **Access Environments**:
-   - Open `student_links.csv` to find each student’s URL (e.g., `http://192.168.56.1:8081`) and password (e.g., `student1_pass`).
-   - Share the respective URL and password with each student to access their coding environment.
+- Open student_links.csv to find each student’s URL (e.g., http://192.168.1.x:8081) and password (e.g., student1_pass).
+- Share the respective URL and password with each student to access their coding environment.
+- For Wi-Fi access, replace localhost or COMPUTERNAME in URLs with your machine’s local IP (e.g., 192.168.1.x, found via ipconfig) and ensure firewall allows ports 8081–808
 
 ### Option 2: Batch Script (Windows Only)
 The `start_student_envs.bat` script is a simpler alternative for Windows but lacks port conflict checks.
@@ -108,6 +109,7 @@ We welcome contributions! Please fork the repository, make changes, and submit a
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
 
 
 
