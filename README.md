@@ -22,7 +22,7 @@ This project provides an automated solution to set up isolated, web-based coding
 ## 🚀 Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/student-coding-environments.git](https://github.com/Divyansh-cmyk/-Web-Based-VS-Code-for-Students.git
+   git clone https://github.com/Divyansh-cmyk/-Web-Based-VS-Code-for-Students.git
    cd student-coding-environments
    ```
 
@@ -108,5 +108,6 @@ We welcome contributions! Please fork the repository, make changes, and submit a
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
 
 
